@@ -1,2 +1,3 @@
-# hex_disp
-'hexedit' equivalent
+# File HEX Viewer
+UNIX 'hexedit' equivalent.
+Input parameter for number of bytes per line.
